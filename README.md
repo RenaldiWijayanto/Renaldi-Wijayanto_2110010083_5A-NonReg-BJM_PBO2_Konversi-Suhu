@@ -5,9 +5,9 @@
 Berikut adalah kode Konversi Suhu:
 
 
-package konversi;
+    package konversi;
 
-public class KonversiSuhu extends javax.swing.JFrame {
+    public class KonversiSuhu extends javax.swing.JFrame {
 
     
     public KonversiSuhu() {
